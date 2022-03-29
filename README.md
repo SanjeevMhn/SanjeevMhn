@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SanjeevMhn
 - 👀 I’m interested in programming in general.
-- 🌱 I’m currently learning frontend technologies like Vue, SASS, etc.
+- 🌱 I’m currently learning frontend technologies like React,Vue,Angular,SASS.
+- 🌱 I am also keen on learning backend frameworks, laravel and node being my field of interest.
 - 📫 How to reach me: you can reach me at sanjeevmaharjan19@gmail.com
 
 <!---
